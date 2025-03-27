@@ -8,3 +8,4 @@
 3. [**스터디카페 이용권, 잘 쓰고 있는지 데이터로 검증하기**](https://github.com/Seong-jieun/Personal_Project/blob/main/A_Data_Driven_StudyCafe_Experience.ipynb)
    - 스터디카페 이용 기록 분석을 통해 이용권을 최대한 활용하기 위한 최소 이용 시간을 계산하고 이용권 선택을 잘했는지 검증하기
    - 개인 데이터 직접 수집하여 진행
+
