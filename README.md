@@ -10,4 +10,4 @@
    - 개인 데이터 직접 수집하여 진행
 
 3. [**고객 특성을 이용한 고객 세분화 분석과 비즈니스 전략 제안**](https://github.com/Seong-jieun/Personal_Project/blob/main/Customer_Personality_Segment_analysis.ipynb)
-   - 기존의 RFM 고객 세분화 분석 방법을 응용하여 Recency, Monetary, Engagement(고객 참여도)를 이용하여 고객 세분화 분석을 진행하고 고객 그룹에 따른 비즈니스 전략 제안하기
+   - 기존의 RFM 고객 세분화 분석 방법을 응용하여 Recency, Monetary, Engagement(고객 참여도)를 이용하여 고객 세분화 분석을 진행하고, 고객 그룹에 따른 비즈니스 전략 제안하기
